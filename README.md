@@ -8,7 +8,8 @@
 [![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/raghupathi-manchala-330193182/)
 
 ### visit my personal website for more details
-[My Webite](https://www.linkedin.com/in/raghupathi-manchala-330193182/)
+[My Webite](https://raghupathi.netlify.app)
+
 
 🧰 Toolbox 
 
