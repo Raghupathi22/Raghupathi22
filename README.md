@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Raghupathi22/Raghupathi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**Raghupathi22/Raghupathi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**-->
 ### I'm a flutter developer. I have been working on flutter for 1+ years and also have experience in real time app development. Also, I am good at HTML, CSS and Python.
 
 🧰 Toolbox 
@@ -32,10 +31,6 @@ src = "https://github.com/devicons/devicon/blob/master/icons/javascript/javascri
  
 <!--
 ▶ [More Blog Posts] (https://mns.hashnode.dev/)
-
-
-
-**malladi2610/malladi2610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
