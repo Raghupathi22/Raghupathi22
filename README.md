@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ## 📈 My Github Stats
 
-![Raghupathi Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghupathi22&theme=radical)
+![Raghupathi Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghupathi22&theme=radical&langs_count=8)
 ![Raghupathi GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghupathi22&&show_icons=true&theme=radical&count_private=true)
 
 
