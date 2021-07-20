@@ -10,7 +10,8 @@
 🧰 Toolbox 
 
 <img src = "https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt = "Arduino-logo" width = "50" height = "50" />
-<img src = "https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt = "HTML" width = "50" height = "50" />
+<img src = "https://cdn.worldvectorlogo.com/logos/html5-2.svg" alt = "HTML" width = "50" height = "50" /> <img
+src = "https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt = "CSS" width = "50" height = "50" />
 <img src = "https://cdn.worldvectorlogo.com/logos/python-5.svg" alt = "Python" width = "50" height = "50" />
 
 
