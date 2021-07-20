@@ -4,6 +4,9 @@
 **Raghupathi22/Raghupathi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**-->
 ### I'm a flutter developer. I have been working on flutter for 1+ years and also have experience in real time app development. Also, I am good at HTML, CSS and Python.
 
+
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)]
+
 🧰 Toolbox 
 
 
@@ -40,5 +43,5 @@ Here are some ideas to get you started:
 
 ## 📈 My Github Stats
 
-![Raghupathi Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghupathi22&hide=CSS,SCSS,Cmake,Shell,Hack,Powershell,PHP,Ruby&theme=radical) ![Raghupathi GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghupathi22&&show_icons=true&theme=radical)
+![Raghupathi Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raghupathi22&theme=radical) ![Raghupathi GitHub stats](https://github-readme-stats.vercel.app/api?username=Raghupathi22&&show_icons=true&theme=radical)
 
