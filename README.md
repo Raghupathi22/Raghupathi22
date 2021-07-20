@@ -5,7 +5,7 @@
 ### I'm a flutter developer. I have been working on flutter for 1+ years and also have experience in real time app development. Also, I am good at HTML, CSS and Python.
 
 
-[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/nagasubhash2626/)]
+[![LinkedIn profile](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/raghupathi-manchala-330193182/)
 
 🧰 Toolbox 
 
