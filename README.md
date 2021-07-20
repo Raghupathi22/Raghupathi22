@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I'm a flutter developer. I have been working on flutter for 1+ years and also have experience in real time app development. Also, I am good at HTML, CSS
+### I'm a flutter developer. I have been working on flutter for 1+ years and also have experience in real time app development. Also, I am good at HTML, CSS and Python.
+
